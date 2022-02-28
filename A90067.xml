@@ -1,0 +1,378 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An hundred and six lessons or Christian directions, composed together by three godly divines, for the benefit of all those which desire to walk according to Gods word. Occasioned and begun by Mr. Newman, encreased and enlightned [sic] Mr. Johnson, multiplied and ordered by Mr. Breercliffe. Also, a briefe and profitable exposition on Psal. 119. 9. 39</title>
+            <author>Newman, Mr.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90067</idno>
+            <idno type="STC">Wing N923</idno>
+            <idno type="STC">Thomason 669.f.10[73]</idno>
+            <idno type="STC">ESTC R210565</idno>
+            <idno type="EEBO-CITATION">99869349</idno>
+            <idno type="PROQUEST">99869349</idno>
+            <idno type="VID">162608</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90067)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162608)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 246:669f10[73])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An hundred and six lessons or Christian directions, composed together by three godly divines, for the benefit of all those which desire to walk according to Gods word. Occasioned and begun by Mr. Newman, encreased and enlightned [sic] Mr. Johnson, multiplied and ordered by Mr. Breercliffe. Also, a briefe and profitable exposition on Psal. 119. 9. 39</title>
+                  <author>Newman, Mr.</author>
+                  <author>Johnson, Mr.</author>
+                  <author>Breercliffe, Mr.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>by Tho: Broad,</publisher>
+                  <pubPlace>Printed at York :</pubPlace>
+                  <date>1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With decorative border.</note>
+                  <note>Annotation on Thomason copy: "Aug: 11th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Psalms CXIX --  Commentaries --  Early works to 1800.</term>
+               <term>Christian life --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-08</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="tract">
+            <pb facs="tcp:162608:1" rendition="simple:additions"/>
+            <head>An hundred and ſix Leſſons, or Chriſtian Directions, compoſed together by three godly Divines, for the benefit of all thoſe
+which deſire to walk according to Gods Word. Occaſioned and begun by Mr. Newman, encreaſed and enlightned
+Mr. Johnſon, multiplied and ordered by Mr. Breercliffe. Alſo, a briefe and profitable Expoſition on Pſal. 119. 9.</head>
+            <p>IT is of abſolute neceſſity to be a Chriſtian,<note place="margin">B</note> that,
+is, to dwell in Chriſt and Chriſt in you.</p>
+            <p>2 Be aſſured that can never be, till you hate,
+deny, get out of your ſelves, and prize Chriſt a<g ref="char:EOLhyphen"/>bove
+all.</p>
+            <p>3 This cannot be attained, till you truly know
+your ſelfe and Chriſt.</p>
+            <p>4 It is the ſafeſt to forbeare the ſearch of any or
+all knowledge, till thou knoweſt thy ſelfe.</p>
+            <p>5 The better you know your ſelfe, the greater
+will your terrour be.</p>
+            <p>6 That terrour will whip you to confeſſe the ne<g ref="char:EOLhyphen"/>ceſſity
+of a Chriſt, and compell you to ſeeke and
+long for him, be reſtleſſe, tremble, deſpaire, be in
+Hell till you finde him.</p>
+            <p>7 Let every luſt of thy heart ſtand back,<note place="margin">I</note> to make
+roome for Chriſt.</p>
+            <p>8 Let ſelf-righteouſneſſe be odious to thee, when
+Chriſts Righteouſneſſe comes.</p>
+            <p>9 Welcome the ſpirit of Chriſt into thy heart
+with joy.</p>
+            <p>10 Hunger after Chriſt in the pureſt way of re<g ref="char:EOLhyphen"/>vealing
+himſelfe.</p>
+            <p>11 Uſe no ordinance without ſome advantage
+or growth.</p>
+            <p>12 Soake thy heart often in the feeling natures
+miſery.</p>
+            <p>13 Breake not priſon from under the Spirit of
+bondage, till God ſet you free.</p>
+            <p>14 Dwell continually in the thoughts of thy
+ſins, till they appeare thy greateſt ill, and Chriſt thy
+greateſt gaine.</p>
+            <p>15 Stand looſe from all earthly comforts.</p>
+            <p>16 Chuſe any ſuffering rather then the leaſt ſin.</p>
+            <p>17 Let ſin lie heavie, that affliction may lie light</p>
+            <p>18 Get ſolid proofe of your intereſt in Chriſt.</p>
+            <p>19 Take heed you blot not your evidence for
+heaven.</p>
+            <p>20 Keepe cloſe with God in your generall and
+particular callings.</p>
+            <p>21 Evidence your title to Chriſts Legacies.</p>
+            <p>22 Take heed of that,<note place="margin">N</note> that breeds eſtrangement
+between God and you.</p>
+            <p>23 Eye God that eyes you in all your enter<g ref="char:EOLhyphen"/>priſes.</p>
+            <p>24 Goe any whither rather then loſe Gods com<g ref="char:EOLhyphen"/>pany.</p>
+            <p>25 Thinke nothing too deare for God when he
+calls for it,</p>
+            <p>26 Reckon that your gainfulleſt and ſweeteſt
+time by Gods communion.<note place="margin">I</note>
+            </p>
+            <p>27 Labour to keep in long the fire of heat, which
+Gods preſence hath kindled.</p>
+            <p>28 Reſolve to eat the bittereſt Roul, God reach<g ref="char:EOLhyphen"/>eth
+you.</p>
+            <p>29 Be moſt in the duty you finde God moſt in.</p>
+            <p>30 In all Companies, keep Company with God</p>
+            <p>31 Account thy ſelfe moſt honoured in Gods
+honour.</p>
+            <p>32 Let every injury to God and his cauſe injure
+you.</p>
+            <p>33 Let neither God nor Devill find thee idle.</p>
+            <p>34 Be in daily expectation and readineſſe for
+Chriſts comming.</p>
+            <p>35 Serve God as heartily as ever you ſerved ſin.</p>
+            <p>36 The nearer-home, the more long for it.</p>
+            <p>37 Prize the leaſt mercy of God, at the higheſt
+rate.<note place="margin">N</note>
+            </p>
+            <p>38 Employ every talent received, to the utmoſt
+advantage for God.</p>
+            <p>39 In every duty go out of your ſelf into Chriſts
+ſtrength.<note place="margin">I</note>
+            </p>
+            <p>40 Let the inlargement of Chriſts Church in<g ref="char:EOLhyphen"/>large
+thy heart.</p>
+            <p>41 Bewail the Churches miſery above thine own</p>
+            <p>42 Affect no perferment, but ſuch as may perfer
+you into Gods favour, in the Court of Grace.</p>
+            <p>43 Account no pains or coſt great to pleaſe God
+and his children.<note place="margin">B</note>
+            </p>
+            <p>44 Contempt for Grace and Chriſt will cer<g ref="char:EOLhyphen"/>tainly
+end in honour, beleeve it.</p>
+            <p>45 In the leaſt tempeſt think not thy ſelf ſafe in
+any labour but in Chriſt</p>
+            <p>46 You ſhall never be free from horrour, if you
+yeeld to ſin horribly againſt God.</p>
+            <p>47 Welcom God into thy houſe, and thou ſhalt
+be welcome into his, not otherwiſe.</p>
+            <p>48 <hi>For</hi> Commerce, Prov. 11. 1, <hi>For</hi> Converſe, Prov.
+11. 42.</p>
+            <p>49 Leave the ſavour of grace in every company</p>
+            <p>50 Let them be deareſt to thee that are deareſt
+with God.<note place="margin">I</note>
+            </p>
+            <p>51 Deſire no delight in the friendſhip or fellow<g ref="char:EOLhyphen"/>ſhip
+of the godleſſe.<note place="margin">B</note>
+            </p>
+            <p>52 Fear their friendſhip who are great without
+God.</p>
+            <p>53 You ſhall finde more loſſe and hazard then
+comfort &amp; gain,<note place="margin">I</note> in the tillage of great mens favour</p>
+            <p>54 Countenance grace in the meaneſt member.</p>
+            <p>55 Remember them to God that you deſire
+ſhould remember you.<note place="margin">N</note>
+            </p>
+            <p>56 Make great account of them who are in
+Gods ſtead to you,<note place="margin">B</note> and declare it faithfully.</p>
+            <p>57 Seek not friends for earthly but heavenly ends</p>
+            <p>58 Be as willing to get friends on whom you
+may ſow, as from whom you may reape.</p>
+            <p>59 The brighter thy vertues be, the greater are
+thy ſins.</p>
+            <p>60 Thinke thy ſoule to be as a God inhabiting
+humane body, uſe it not as a beaſt.</p>
+            <p>61 That God will require an exact account of
+thy particular calling.</p>
+            <p>62 That all perſecutions wee ſuffer, are ſeeds,
+whoſe fruit is glory.</p>
+            <p>63. That grace and glory ſhall once meet.</p>
+            <p>64 Be reſolved it is a ſweet thing, to want the
+ſweets of this world.</p>
+            <p>65 That if you would be content with hearbs,
+you need not flatter a <hi>Dyoniſius.</hi>
+            </p>
+            <p>66 Having bags of bread, <hi>i. e.</hi> Scriptures, know
+not a ſtint-ſtone, <hi>i. e.</hi> humane curioſity.</p>
+            <p>67 A holy man is for a good infinitely above
+earth it ſelfe, and delights in that good.</p>
+            <p>68 Take heed of a ſnare even in every lawfull
+pleaſure.<note place="margin">I</note>
+            </p>
+            <p>69 Pleaſures in ill,<note place="margin">B</note> renders thee unpleaſant to
+God and good men.</p>
+            <p>70 It is obſerved for him that hath a ſoule, to
+affect practiſe beyond the body, birth or earth.</p>
+            <p>71 Deſire and get learning and grace too, and ſo
+poſſeſſe all that excellency in heaven and earth.</p>
+            <p>72 Deſire not to have for poſſeſſion, but for diſ<g ref="char:EOLhyphen"/>penſation
+to God and his children. Of a ſteward
+be not a theife.</p>
+            <p>73 Chuſe the fatteſt paſture for thy ſoule.<note place="margin">I</note>
+            </p>
+            <p>74 Determine to be truſty, deſire not to bee
+truſted.<note place="margin">B</note>
+            </p>
+            <p>75 Eſteeme of ſinne by its parting,<note place="margin">I</note> not by its
+comming.</p>
+            <p>76 Be ſure you prize not credit, nor any thing
+elſe at a higher rate then godlineſſe.<note place="margin">B</note>
+            </p>
+            <p>77 Eſteem no price too great for truth and wiſ<g ref="char:EOLhyphen"/>dome.</p>
+            <p>78 Know that an uncleane body cannot be the
+harbour of a chaſte and loyall ſoule.</p>
+            <p>79 Be not diſpoſed to ſloath, which is the loſſe
+of health, wealth, grace and glory.</p>
+            <p>80 Encline not to anger but love, which brings
+eaſe, gaine and ſafety.</p>
+            <p>81 A meek ſpirit is the beſt preſerver of Chriſti<g ref="char:EOLhyphen"/>an
+peace, and Chriſtian communion.</p>
+            <p>82 To be enclined to curioſity in ſearch of our
+own faults, is a vertue; a ſin, in ſearch of others.</p>
+            <p>83 Stand a loofe from appearance of ſinne, and
+the practiſe muſt needs ſtand farre from thee.</p>
+            <p>84 Get ground daily of your corruptions.</p>
+            <p>85 Be aſhamed to commit the leaſt ſin,<note place="margin">I</note> that the
+maſter of great ſins may be affraid of thee.<note place="margin">B</note>
+            </p>
+            <p>86 Give not liberty to any paſſion in natures
+way, without God.</p>
+            <p>87 Godly and righteous living will bring eſteem
+in deſpite of malice and envie.</p>
+            <p>88 Confider how much worke thou haſt to doe
+in ſo ſmall a time.<note place="margin">I</note>
+            </p>
+            <p>89 The earlier you begin, the eaſier will thy
+dayes work be,<note place="margin">B</note> whether in generall or particular
+calling.</p>
+            <p>90 Reſolve to make the decay of thy body or e<g ref="char:EOLhyphen"/>ſtate,
+the renewing of thy ſoule.</p>
+            <p>91 Reſolve not to goe one ſtep out of the way
+to heaven.</p>
+            <p>92 Reſolve next to thy heart, to keep thy tongue
+from ſtraying.</p>
+            <p>93 Be ſure no excellency is attained, where hu<g ref="char:EOLhyphen"/>mility,
+temperance, and diligence make not the way</p>
+            <p>94 Credit got by ſeeming graces will not laſt.</p>
+            <p>95 A ſincere heart gives the beſt reliſh to any
+holy duty.</p>
+            <p>96 Performe holy duties aswell as doe them,
+and marke the ſucceſſe.</p>
+            <p>97 Attend holy duties though they bring not
+preſent profit, ceaſe not though thou ſpeed not; be
+not like a Cripple that followes a little way and
+falls off.</p>
+            <p>98 Reſolve the higher you are, the nearer you
+will be to Heaven.</p>
+            <p>99 Great wings ought to take high flights, not
+like Swans having feathers enough, &amp; flies nought</p>
+            <p>100 Having got a gracious ſpirit let it not run
+out in extravagance; we let water out and not wine.</p>
+            <p>101 Be ſure, better fruit is expected in a garden,
+then in a wilderneſſe; from the tree of life, then
+from the corrupt roote of nature.</p>
+            <p>102 Know that ſelfe-love will make thee hate<g ref="char:EOLhyphen"/>full
+to either.</p>
+            <p>103 Few hate them who hate none, and truely
+love all.</p>
+            <p>104 Reſolve to begin at the beginning of Chri<g ref="char:EOLhyphen"/>ſtianity,
+or never looke to attaine to the end.</p>
+            <p>105 Reſolve to be a through Chriſtian, or never
+begin it to deceive thy ſelfe, and diſpleaſe God.</p>
+            <p>106 Conſider what Chriſtianity will coſt thee,
+and reſolve to beare it, or never beginne to pro<g ref="char:EOLhyphen"/>feſſe
+it.</p>
+         </div>
+         <div type="commentary">
+            <head>Davids Queſtion and Anſwer in Pſal. 119. 9. very
+briefe and profitably expounded.</head>
+            <p>IN that place he puts forth this Queſtion, <hi>Where<g ref="char:EOLhyphen"/>with
+ſhall a young man cleanſe his wayes?</hi> Hee an<g ref="char:EOLhyphen"/>ſwereth
+in generall, <hi>By taking heed to Gods Word.</hi> I
+ſuppoſe it may be reſolved in ſeven ſeverall parti<g ref="char:EOLhyphen"/>culars,
+thus:</p>
+            <p>There is a way, 1. Of the minde. 2. Of the
+tongue. 3. Of the affections. 4. Of the actions. 5.
+Of the relations. 6. Of our Vocations. 7. Of our
+Converſations. Its neceſſary to cleanſe all theſe
+wayes according to Holy Scripture.</p>
+            <p>1 For the way of your minde, take heede your
+thoughts concerning God be holy, high, and thank<g ref="char:EOLhyphen"/>full:
+concerning others, ſparing, impartiall, and re<g ref="char:EOLhyphen"/>ſpectfull:
+concerning your ſelves, true, lowly fruit<g ref="char:EOLhyphen"/>full.</p>
+            <p>2 For the way of your diſcourſe, let your words
+be few, gracious, pertinent.</p>
+            <p>3 For the way of your Affections, let them bee
+rightly fixed, well ordered, fully exerciſed.</p>
+            <p>4 Concerning your Actions, ſee they have a good
+ground, a ſtraight rule; the beſt end.</p>
+            <p>5 As for the way of your Relations, let the du<g ref="char:EOLhyphen"/>ties
+of them all be deſtinctly knowne, diligently
+practiſed, and faithfully diſcharged.</p>
+            <p>6 In the way of your viſible Calling, expreſſe
+the purity, power and priviledge of the Goſpell.</p>
+            <p>7 In the way of your Vocations, whether Chri<g ref="char:EOLhyphen"/>ſtian
+or Civill, let it be conſciencious, induſtrious,
+and unwearied.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Printed at</hi> York <hi>by</hi> Tho: Broad. 1646.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
